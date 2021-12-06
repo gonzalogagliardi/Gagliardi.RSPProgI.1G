@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638830544 source:c:\users\principal\desktop\clases programacion\recuprimerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
